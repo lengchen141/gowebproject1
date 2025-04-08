@@ -1,0 +1,8 @@
+ db:
+   DriverName: mysql
+   Database: gofristdb
+   Port: 3306
+   UserName: lengchen
+   Password: 123456
+   Host: localhost # 127.0.0.1
+   Charset: utf8mb4
